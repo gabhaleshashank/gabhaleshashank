@@ -22,6 +22,7 @@
 
 ### 💻 Languages
 `Python` • `C++` • `Java` • `JavaScript` • `SQL` • `PHP`
+[![My Skills](https://skillicons.dev/icons?i=python,c++,js,sql,php)](https://skillicons.dev)
 
 ### 🌐 Web Development
 `HTML` • `CSS` • `React.js` • `Flask` • `Django` • `PHP-MySQL` • `Node.js`
