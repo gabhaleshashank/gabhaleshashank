@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shashank Gabhale
 
-🎓 **B.E. Computer Engineering Student** | 💡 Passionate about **AI, Machine Learning, and Full-Stack Development**  
+🎓 **💡 Passionate about **AI, Machine Learning, and Full-Stack Development**  
 🌱 Currently exploring **Deep Learning**, **Computer Vision**, and **Cloud-based AI Projects**
 
 ---
