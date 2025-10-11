@@ -24,7 +24,7 @@
 [![Languages](https://skillicons.dev/icons?i=python,cpp,js,mysql,php)](https://skillicons.dev)
 
 ### 🌐 Web Development
-`HTML` • `CSS` • `React.js` • `Flask` • `Django` • `PHP-MySQL` • `Node.js`
+[![Web Development](https://skillicons.dev/icons?i=html,css,react,flask,django,mysql,nodejs)](https://skillicons.dev)
 
 ### 🤖 Machine Learning / AI
 `Scikit-learn` • `TensorFlow` • `OpenCV` • `YOLOv8` • `Pandas` • `NumPy`
