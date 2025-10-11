@@ -6,7 +6,6 @@
 ---
 
 ## 🚀 About Me
-
 - I’m currently working on:  
   **“Seed Quality Detection using YOLOv8”** — a Computer Vision-based project for agricultural automation.
 
@@ -19,12 +18,6 @@
   - Artificial Intelligence & Data Science  
   - Smart Agriculture & Sensor-based Systems  
   - Building Scalable Web Applications  
-
-- 💬 Ask me about:
-  - Machine Learning / Deep Learning
-  - Web Development (Frontend + Backend)
-  - AI Integration & Model Deployment
-
 ---
 
 ## 🛠️ Tech Stack
