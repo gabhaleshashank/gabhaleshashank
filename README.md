@@ -43,7 +43,6 @@
 |-------------|----------------|---------------|
 | **Seed Quality Detection using YOLOv8** | AI-based model for detecting defective seeds using computer vision | Python, YOLOv8, OpenCV |
 | **Library Management System** | Web app for managing library operations with CRUD functionality | HTML, CSS, JS, PHP, MySQL |
-| **Career Guidance Chatbot** | AI-powered chatbot for student career recommendations | Flask, NLP, MySQL |
 | **Employee Performance Analytics** | Data-driven system for performance tracking and insights | Python, Power BI, Flask, MySQL |
 
 ---
