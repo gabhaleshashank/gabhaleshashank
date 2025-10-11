@@ -1,11 +1,8 @@
-# 👋 Hi there, I'm Shashank Gabhale
+## 🚀 About Me
 
 💡 Passionate about **AI, Machine Learning, and Full-Stack Development**  
 🌱 Currently exploring **Deep Learning**, **Computer Vision**, and **Cloud-based AI Projects**
-
 ---
-
-## 🚀 About Me
 - I’m currently working on:  
   **“Seed Quality Detection using YOLOv8”** — a Computer Vision-based project for agricultural automation.
 
