@@ -24,16 +24,16 @@
 [![Languages](https://skillicons.dev/icons?i=python,cpp,js,mysql,php)](https://skillicons.dev)
 
 ### 🌐 Web Development
-[![Web Development](https://skillicons.dev/icons?i=html,css,react,flask,django,mysql,nodejs)](https://skillicons.dev)
+[![Web Development](https://skillicons.dev/icons?i=html,css,react,flask,django,mysql,nodejs,express,tailwind)](https://skillicons.dev)
 
 ### 🤖 Machine Learning / AI
-`Scikit-learn` • `TensorFlow` • `OpenCV` • `YOLOv8` • `Pandas` • `NumPy`
+[![Machine Learning / AI](https://skillicons.dev/icons?i=anaconda,sklearn,tensorflow,opencv,)](https://skillicons.dev)
 
 ### 🗄️ Databases
-`MySQL` • `MongoDB`
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### ☁️ Tools & Platforms
-`Git` • `GitHub` • `Jupyter Notebook` • `Google Colab` • `VS Code` • `AWS`
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,vscode,aws)](https://skillicons.dev)
 
 ---
 
