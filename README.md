@@ -21,8 +21,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`Python` • `C++` • `Java` • `JavaScript` • `SQL` • `PHP`
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,mysql,php)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,js,mysql,php)](https://skillicons.dev)
 
 ### 🌐 Web Development
 `HTML` • `CSS` • `React.js` • `Flask` • `Django` • `PHP-MySQL` • `Node.js`
