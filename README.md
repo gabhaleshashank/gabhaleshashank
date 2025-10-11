@@ -46,9 +46,11 @@
 | **Employee Performance Analytics** | Data-driven system for performance tracking and insights | Python, Power BI, Flask, MySQL |
 
 ---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabhaleshashank&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 ---
 
 ## 📫 Connect with Me
