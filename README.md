@@ -1,3 +1,4 @@
+<!-- hidden -->
 ## 🚀 About Me
 
 💡 Passionate about **AI, Machine Learning, and Full-Stack Development**  
@@ -65,3 +66,4 @@
 
 ⭐ **"Building intelligent systems that make everyday life smarter and easier."**  
 💬 *Let's collaborate on AI, ML, or web-based innovation projects!*
+<!-- hidden -->
