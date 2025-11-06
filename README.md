@@ -6,7 +6,7 @@
 
 ---
 - I’m currently working on:  
-  **“Seed Quality Detection using YOLOv8”** — a Computer Vision-based project for agricultural automation.
+  **“Seed Quality Detection using Enhanced YOLOv8”** — a Computer Vision-based project for agricultural automation.
 
 - 🧠 I’m learning:
   - Advanced Machine Learning (Scikit-learn, TensorFlow, PyTorch)
