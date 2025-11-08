@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ### 🌐 Web Development
 [![Web Development](https://skillicons.dev/icons?i=html,css,react,flask,django,mysql,nodejs,express,tailwind)](https://skillicons.dev)
