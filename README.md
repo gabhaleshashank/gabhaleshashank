@@ -5,7 +5,7 @@
 🌱 Currently exploring **Deep Learning**, **Computer Vision**, and **Cloud-based AI Projects**
 
 ---
-- I’m currently working on:  
+- Currently working on:  
   **“Seed Quality Detection using Enhanced YOLOv8”** — a Computer Vision-based project for agricultural automation.
 
 - 🧠 I’m learning:
