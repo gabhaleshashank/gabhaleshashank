@@ -1,8 +1,8 @@
 <!-- hidden -->
 ## 🚀 About Me
 
-💡 Passionate about **AI, Machine Learning, and Full-Stack Development**  
-🌱 Currently exploring **Deep Learning**, **Computer Vision**, and **Cloud-based AI Projects**
+Passionate about **AI, Machine Learning, and Full-Stack Development**  
+Currently exploring **Deep Learning**, **Computer Vision**, and **Cloud-based AI Projects**
 
 ---
 - Currently working on:  
